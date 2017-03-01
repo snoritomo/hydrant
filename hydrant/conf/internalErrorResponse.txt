@@ -1,0 +1,15 @@
+responseCode: 404 Not Found
+contentType: text/html
+charset: UTF-8
+serverName: x-fit
+
+<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">
+<html>
+	<head>
+		<title>404 Not Found</title>
+	</head>
+	<body>
+		<h1>指定されたＵＲＬに、ファイルが見つかりませんでした</h1>
+		<p>The requested URL {url} was not found on this server.</p>
+	</body>
+</html>
